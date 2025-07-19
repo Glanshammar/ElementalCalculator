@@ -1,0 +1,47 @@
+# ninja log v6
+37	828	7746189662266828	ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+833	3201	7746189663177984	CMakeFiles/ElementalCalculator.dir/main.cpp.obj	6b56a714917b00e7
+3520	3726	7746189690054257	ElementalCalculator.exe	21cc25cd4094fa1
+37	828	7746189662266828	ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+37	828	7746189662266828	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+37	828	7746189662266828	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+829	3209	7746189663137054	CMakeFiles/ElementalCalculator.dir/ElementalCalculator_autogen/mocs_compilation.cpp.obj	33ea89d40f3d294e
+836	3520	7746189663209855	CMakeFiles/ElementalCalculator.dir/mainwindow.cpp.obj	4af36bbea3502701
+43	133	7746208365355692	.qt/qml_imports/ElementalCalculator_build.cmake	87418321ac15dd41
+43	133	7746208365355692	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/ElementalCalculator_build.cmake	87418321ac15dd41
+133	1008	7746208372986648	ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+133	1008	7746208372986648	ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+133	1008	7746208372986648	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+133	1008	7746208372986648	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+1013	3521	7746208374202616	CMakeFiles/ElementalCalculator.dir/ElementalCalculator_autogen/mocs_compilation.cpp.obj	a3274f581a68030a
+1017	3531	7746208374245710	CMakeFiles/ElementalCalculator.dir/main.cpp.obj	5a25010bc093f237
+1021	3756	7746208374290664	CMakeFiles/ElementalCalculator.dir/mainwindow.cpp.obj	cff6dbb65d1573ff
+3756	3993	7746208401637887	ElementalCalculator.exe	dfe316ecc7ddfbfe
+53	960	7746208810868361	ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+53	960	7746208810868361	ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+53	960	7746208810868361	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+53	960	7746208810868361	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+961	3813	7746208812055104	CMakeFiles/ElementalCalculator.dir/ElementalCalculator_autogen/mocs_compilation.cpp.obj	a3274f581a68030a
+965	3842	7746208812091037	CMakeFiles/ElementalCalculator.dir/main.cpp.obj	5a25010bc093f237
+969	4084	7746208812126028	CMakeFiles/ElementalCalculator.dir/mainwindow.cpp.obj	cff6dbb65d1573ff
+4085	4296	7746208843286519	ElementalCalculator.exe	dfe316ecc7ddfbfe
+46	252	7746209451879575	ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+46	252	7746209451879575	ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+46	252	7746209451879575	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+46	252	7746209451879575	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+253	2713	7746209453953828	CMakeFiles/ElementalCalculator.dir/mainwindow.cpp.obj	cff6dbb65d1573ff
+2713	2918	7746209478553992	ElementalCalculator.exe	dfe316ecc7ddfbfe
+46	836	7746212732186728	ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+46	836	7746212732186728	ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+46	836	7746212732186728	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+46	836	7746212732186728	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+840	3367	7746212733338702	CMakeFiles/ElementalCalculator.dir/main.cpp.obj	5a25010bc093f237
+837	3383	7746212733303712	CMakeFiles/ElementalCalculator.dir/ElementalCalculator_autogen/mocs_compilation.cpp.obj	a3274f581a68030a
+844	3551	7746212733381192	CMakeFiles/ElementalCalculator.dir/mainwindow.cpp.obj	cff6dbb65d1573ff
+3551	3773	7746212760451968	ElementalCalculator.exe	dfe316ecc7ddfbfe
+51	239	7746214220049897	ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+51	239	7746214220049897	ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+51	239	7746214220049897	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/timestamp	9ef1e6b833b90523
+51	239	7746214220049897	C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElementalCalculator_autogen/mocs_compilation.cpp	9ef1e6b833b90523
+240	2683	7746214221944259	CMakeFiles/ElementalCalculator.dir/mainwindow.cpp.obj	cff6dbb65d1573ff
+2683	2890	7746214246365935	ElementalCalculator.exe	dfe316ecc7ddfbfe
