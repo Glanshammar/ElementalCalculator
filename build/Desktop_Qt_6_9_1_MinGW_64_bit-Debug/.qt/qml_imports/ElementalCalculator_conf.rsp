@@ -1,9 +1,0 @@
--rootPath
-C:/Users/Mondus/Documents/QT Projects/ElementalCalculator
--cmake-output
--output-file
-C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/ElementalCalculator_conf.cmake
--importPath
-C:/Users/Mondus/Documents/QT Projects/ElementalCalculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
--importPath
-C:/Qt/6.9.1/mingw_64/qml
